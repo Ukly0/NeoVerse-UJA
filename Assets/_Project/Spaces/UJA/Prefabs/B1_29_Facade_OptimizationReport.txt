@@ -1,0 +1,9 @@
+﻿B1_29 facade optimization report
+Generated: 2026-06-08 12:29:25
+Shell depth meters: 12
+Roof depth meters: 2
+Total renderers: 2080
+Kept renderers: 1370
+Removed renderers: 710
+Bounds center: (266.02, 13.06, 390.42)
+Bounds size: (188.44, 23.50, 154.43)

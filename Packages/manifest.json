@@ -2,6 +2,8 @@
   "dependencies": {
     "com.anklebreaker.unity-mcp": "https://github.com/AnkleBreaker-Studio/unity-mcp-plugin.git",
     "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git#v5.0.0",
+    "com.besty.unity-skills": "https://github.com/Besty0728/Unity-Skills.git?path=/SkillsForUnity",
+    "com.coplaydev.unity-mcp": "https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity",
     "com.hwaet.projectcloner": "https://github.com/hwaet/UnityProjectCloner.git",
     "com.soupday.cc3_unity_tools": "https://github.com/soupday/cc_unity_tools_URP.git",
     "com.unity.ai.navigation": "1.1.6",
@@ -54,5 +56,8 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "testables": [
+    "com.besty.unity-skills"
+  ]
 }
