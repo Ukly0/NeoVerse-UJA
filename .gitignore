@@ -105,3 +105,10 @@ InitTestScene*.unity*
 # opencode tool config (local-only)
 .opencode/
 opencode.json
+# Asset Store / sample packs — demasiado grandes para git; reimportar desde Package Manager/Asset Store
+/[Aa]ssets/TerrainSampleAssets/
+/[Aa]ssets/TerrainSampleAssets.meta
+/[Aa]ssets/Idyllic Fantasy Nature/
+/[Aa]ssets/Idyllic Fantasy Nature.meta
+/[Aa]ssets/HDRPDefaultResources/
+/[Aa]ssets/HDRPDefaultResources.meta
